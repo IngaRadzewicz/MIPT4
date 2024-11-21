@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MIPT4</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="list">List</string>
+    <string name="empty">Užrašų nėra</string>
+    <string name="name">Pavadinimas</string>
+    <string name="text_box_description">Jūsų užrašai</string>
+    <string name="save_changes">Išsaugoti</string>
+
+
+    <string name="invalid_title">Klaida</string>
+    <string name="invalid_name">Nenurodytas užrašo pavadinimas.</string>
+    <string name="invalid_desc">Nekuriam tuščių užrašų...</string>
+
+    <string name="valid_title">Sėkminga</string>
+    <string name="valid_note">Jūsų užrašas išsaugotas!</string>
+    <string name="deleteText">Ištrinti pasirinktą užrašą</string>
+</resources>
